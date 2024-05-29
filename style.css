@@ -314,3 +314,9 @@ h2 {
   margin: 1rem 0;
 }
 /*Fim Footer*/
+
+/*Imagem desabilitada*/
+
+.image-disable {
+  display: none;
+}
