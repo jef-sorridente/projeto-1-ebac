@@ -1,12 +1,12 @@
-*TecnoD
-**Descrição:
+#TecnoD
+##Descrição:
 
 Site de tecnologia ficticio com layout criado pelo Figma e projeto feito em HTML e CSS durante o cusrso da EBAC.
 
-**Stacks
+##Stacks
 Html
 Css
 Figma
 
-**Deploy: 
+##Deploy: 
 https://projeto-1-ebac-ruby.vercel.app
